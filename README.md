@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
