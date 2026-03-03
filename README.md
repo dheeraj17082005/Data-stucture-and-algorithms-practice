@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Matrix
@@ -46,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
