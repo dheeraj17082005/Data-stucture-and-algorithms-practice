@@ -18,8 +18,7 @@ class Solution {
     public long hours(int[] piles,int hour){
         long h = 0;
         for(int ele : piles){
-            if(ele%hour==0) h+=ele/hour;
-            else h+=(ele/hour)+1;
+            h+=(ele+hour-1)/hour;
         }
         return h;
     }
