@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
