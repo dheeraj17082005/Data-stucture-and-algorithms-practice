@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
 ## Math
