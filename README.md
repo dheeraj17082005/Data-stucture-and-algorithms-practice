@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -74,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Combinatorics
 |  |
@@ -88,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
