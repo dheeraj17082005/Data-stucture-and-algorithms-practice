@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
