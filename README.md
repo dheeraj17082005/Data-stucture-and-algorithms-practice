@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
