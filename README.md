@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
