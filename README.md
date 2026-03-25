@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
+| [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
