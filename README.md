@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0155-min-stack) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
