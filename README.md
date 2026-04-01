@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Combinatorics
 |  |
 | ------- |
