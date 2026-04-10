@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
