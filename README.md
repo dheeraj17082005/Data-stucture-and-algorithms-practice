@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0143-reorder-list) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
