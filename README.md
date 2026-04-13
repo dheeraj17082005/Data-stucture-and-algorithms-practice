@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
