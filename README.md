@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0136-single-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
