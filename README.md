@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String Matching
 |  |
