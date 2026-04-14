@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
 ## Math
 |  |
