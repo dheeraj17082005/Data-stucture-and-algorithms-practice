@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
