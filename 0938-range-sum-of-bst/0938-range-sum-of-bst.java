@@ -14,18 +14,14 @@
  * }
  */
 class Solution {
-    static int sum ;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        sum = 0;
-        rangeSum(root,low,high);
-        return sum;
+    //    binary search logic 
+         if(root==null) return 0;
+         int sum = 0;
+         if(root.val<low) return rangeSumBST(root.right,low,high);
+         else if(root.val>high) return rangeSumBST(root.left,low,high);
+         else {sum += root.val + rangeSumBST(root.left,low,high) + rangeSumBST(root.right,low,high);}
+         return sum;
     }
-    public void rangeSum(TreeNode root, int low, int high){
-        if(root==null) return ;
-        if(root.val >= low && root.val <= high ){
-            sum+=root.val;
-        }
-        rangeSum(root.left,low,high);
-        rangeSum(root.right,low,high);
-    }
+   
 }
