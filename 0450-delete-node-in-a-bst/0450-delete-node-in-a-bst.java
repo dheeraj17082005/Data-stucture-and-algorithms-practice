@@ -1,27 +1,22 @@
 
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null) return root;
-        //leaf node
-        if(key<root.val) root.left = deleteNode(root.left,key);
-        else if(key>root.val) root.right = deleteNode(root.right,key);
+        if(root == null) return root;
+        if(root.val>key) root.left = deleteNode(root.left,key);
+        else if(root.val<key) root.right = deleteNode(root.right,key);
         else{
-            //root.val == key
-            if(root.left == null && root.right==null){
-                return null;
-            }
-            //single child case
+            //leeaf node case
+            if(root.left==null && root.right==null) return null;
+            // single node case
             if(root.left==null) return root.right;
-            else if(root.right==null) return root.left;
+            else if(root.right == null) return root.left;
             else{
-                //2 nodes case
-                //inorder predecessor
+                // 2 child node case
                 TreeNode node = findPredecessor(root.left);
-                // shift the root.val
+                // shift the value of the predecessor to the node to be deleted
                 root.val = node.val;
-                // delete node.val
+                // delete the duplicate node on the leaf it will always be a leaf node because the maximum will be at the leaf 
                 root.left = deleteNode(root.left,node.val);
-
             }
         }
         return root;
@@ -32,5 +27,4 @@ class Solution {
         }
         return node;
     }
-    // time complexity of this code is H1 + H2 which means h1 is the part to which we initially travelled to find the key node and then h2 is the part from h1 key to. leaf node to later on connect it with the new parent of the child sub tree
 }
