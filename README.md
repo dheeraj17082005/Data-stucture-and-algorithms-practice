@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0213-house-robber-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0198-house-robber) |
