@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
