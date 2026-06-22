@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0221-maximal-square) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
