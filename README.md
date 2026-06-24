@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
