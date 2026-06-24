@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
