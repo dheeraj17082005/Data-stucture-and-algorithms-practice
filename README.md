@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
+| [0583-delete-operation-for-two-strings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
