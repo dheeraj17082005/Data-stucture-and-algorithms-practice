@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0198-house-robber) |
