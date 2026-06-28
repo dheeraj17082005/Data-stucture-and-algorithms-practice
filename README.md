@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String Matching
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Combinatorics
 |  |
