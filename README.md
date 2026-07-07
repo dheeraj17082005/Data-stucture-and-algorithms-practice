@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search Tree
 |  |
 | ------- |
