@@ -22,10 +22,6 @@ class Solution {
                 high--;
                 
             }
-            
-
         }
-        
-        
     }
 }
