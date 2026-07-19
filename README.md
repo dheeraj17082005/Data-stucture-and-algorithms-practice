@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
