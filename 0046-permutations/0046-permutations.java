@@ -7,7 +7,7 @@ class Solution {
     }
     public void getpermutations(int[] nums,  List<List<Integer>> ans,int idx ){
 
-        if(idx == nums.length){
+        if(idx == nums.length-1){
            List<Integer> current = new ArrayList<>();
            for(int num : nums){
             current.add(num);
