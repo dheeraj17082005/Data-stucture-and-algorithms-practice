@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0073-set-matrix-zeroes) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
