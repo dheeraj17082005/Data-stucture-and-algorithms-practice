@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3536-maximum-product-of-two-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3536-maximum-product-of-two-digits) |
