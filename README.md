@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0494-target-sum) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
