@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -547,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
