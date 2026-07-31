@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1260-shift-2d-grid) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1572-matrix-diagonal-sum) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0860-lemonade-change) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
