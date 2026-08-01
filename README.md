@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
