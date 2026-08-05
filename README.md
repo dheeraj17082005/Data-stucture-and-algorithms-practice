@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0435-non-overlapping-intervals) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0455-assign-cookies) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -613,4 +619,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
