@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -624,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
