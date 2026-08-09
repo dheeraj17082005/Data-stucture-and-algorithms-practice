@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1260-shift-2d-grid) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0292-nim-game) |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -632,4 +637,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
