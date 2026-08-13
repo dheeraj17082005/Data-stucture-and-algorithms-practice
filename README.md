@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0443-string-compression) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0295-find-median-from-data-stream) |
 ## Brainteaser
 |  |
 | ------- |
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1510-stone-game-iv) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
