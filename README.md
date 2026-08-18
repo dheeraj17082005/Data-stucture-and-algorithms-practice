@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
