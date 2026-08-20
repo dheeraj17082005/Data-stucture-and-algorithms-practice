@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3731-find-missing-elements) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2326-spiral-matrix-iv) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
