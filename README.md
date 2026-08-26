@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0143-reorder-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0402-remove-k-digits) |
