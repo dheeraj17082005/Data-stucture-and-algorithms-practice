@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
