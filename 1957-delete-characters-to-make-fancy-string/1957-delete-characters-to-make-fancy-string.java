@@ -4,10 +4,11 @@ class Solution {
 
         for(char ch : s.toCharArray()){
             int n = sb.length();
-
-            if(n>=2 && sb.charAt(n-1)==ch
-                    && sb.charAt(n-2)==ch){
-                 continue;
+            if(sb.length()>=2 
+            && sb.charAt(n-1)==ch
+            && 
+            sb.charAt(n-2)==ch){
+               continue;
             }
             sb.append(ch);
         }
