@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 ## Binary Search Tree
 |  |
