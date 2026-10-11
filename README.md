@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
