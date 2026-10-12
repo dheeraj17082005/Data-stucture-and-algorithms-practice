@@ -727,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
