@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 ## Binary Search Tree
