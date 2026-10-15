@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-stone-game-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1572-matrix-diagonal-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
