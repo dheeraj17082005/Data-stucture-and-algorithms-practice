@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-stone-game-iv](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1510-stone-game-iv) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1260-shift-2d-grid) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
