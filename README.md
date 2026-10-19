@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0115-distinct-subsequences) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
@@ -769,4 +772,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0202-happy-number) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj17082005/Data-stucture-and-algorithms-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
